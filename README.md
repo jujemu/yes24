@@ -1,3 +1,9 @@
+# 이 실습은 다음의 포스팅을 참고했음을 명시함
+_https://zzsza.github.io/development/2020/06/06/github-action/_  
+_https://github.com/zzsza/github-action-with-python_  
+
+fork로는 issue를 생성할 수 없으므로 부득이하게 새로운 repository를 생성하였음  
+
 # Github Action with Python
 - (1) YES24 cron Github Action
   - YES24 IT 신간 도서에 있는 TOP 40을 가져와서, 해당 Github Issue 업로드
